@@ -10,7 +10,7 @@
  'security/ir.model.access.csv',
  'views/servicio_mantenimiento_views.xml',
  ],
- 'icon': '/garantias/static/description/icon55.png',
+ 'icon': '/static/description/icon55.png',
  'installable': True,
  'application': True,
 }
